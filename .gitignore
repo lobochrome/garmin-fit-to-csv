@@ -27,6 +27,9 @@ temp/
 tmp/
 tempfile/
 
+# Ignore fit files
+*.fit
+
 # Ignore output files
 *.csv
 
